@@ -1,0 +1,18 @@
+{
+  "name": "artistsearch",
+  "version": "1.0.0",
+  "description": "Indeco Service GmbH backend challenge",
+  "main": "src/ArtistSearchRest.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alexei Tcharykov",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10"
+  }
+}
