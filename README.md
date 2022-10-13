@@ -6,11 +6,12 @@ Incedo Services GmbH - Backend Challenge FM API
 
 
 # Structure
-*  config/
-   * default.json
-*  src/
-   * ArtistSearchRest.js
-   * randomArtistNames.json
+* ArtistSearch
+  *  config/
+      * default.json
+  *  src/
+     * ArtistSearchRest.js
+      * randomArtistNames.json
 *  package-lock.json
 *  package.json
 
